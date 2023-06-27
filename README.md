@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
+The game was designed to enable users to translate phrases displayed on the screen. To play, the user starts with 3 lives. For each incorrect translation, a life is lost, and for each correct translation, the progress bar increases until it reaches the end, allowing the user to translate all the phrases.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
